@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Banner](./github-header-image.png)
+![Profile Banner](./github-header-image (1).png)
 
 ## About Me
 I am Abdur Rehman, an engineering student with a profound interest in Technology. My journey in the world of technology is fueled by a relentless curiosity and a passion for continuous learning. I am dedicated to developing innovative solutions and staying at the forefront of technological advancements.
